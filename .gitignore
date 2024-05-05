@@ -1,3 +1,8 @@
+# local
+
+examples/
+junk/
+
 # Compiled Lua sources
 luac.out
 
